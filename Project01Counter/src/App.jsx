@@ -25,7 +25,7 @@ function App() {
      <br />
 
      <button onClick={removeValue}
-     >Remove {count}</button>
+     >remove {count}</button>
     </>
   )
 }
